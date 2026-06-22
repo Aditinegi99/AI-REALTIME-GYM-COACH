@@ -3,8 +3,9 @@ streamlit-webrtc
 mediapipe
 opencv-python
 pandas
-groq>=0.12.0
-gtts>=2.5.3
+groq
+gtts
 python-dotenv
 av
 numpy<2.0.0
+
