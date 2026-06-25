@@ -4,6 +4,8 @@ An AI-powered virtual fitness coach that provides real-time exercise tracking, p
 # Why This Project?
 Most fitness applications either track workouts or provide static guidance. AI Real-Time Gym Coach combines real-time pose estimation, voice coaching, posture correction, workout analytics, and an immersive warm-up experience into a single intelligent fitness platform, creating a more engaging and personalized workout experience.
 
+🔗 **Live Demo:** [Click Here]([YOUR_DEPLOYMENT_LINK](https://startling-custard-ac4ae7.netlify.app/))
+
 
 # 🚀 Features
 - 🎯 Real-time pose detection and body tracking
